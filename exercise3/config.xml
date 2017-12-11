@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>PhoneGap File SystemExample</name>
+    <name>File System</name>
 
     <description>
-        An example application. 
+        File System. 
     </description>
 
     <author href="https://build.phonegap.com" email="c.bowers@worc.ac.uk">
